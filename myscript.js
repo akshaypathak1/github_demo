@@ -26,5 +26,5 @@ headOne.textContent = "ha!! you came on me";
 headOne.style.color = "red";
 })
 headOne.addEventListener("mouseout",function(){
-headOne.textContent = "ha you came on me";
+headOne.textContent = "ha!! you came on me";
 })
